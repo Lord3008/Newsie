@@ -3,7 +3,7 @@ Newsie: A News Summarization website:
 
 •	News is fetched from an API, then the ML model summarizes the news to about 60 words summary which is displayed in the website.
 
-•	Audio feature is added by using ML. Hence, the user can listen to news and relate using the relatable pictures.
+•	Audio feature is added by using NLP. Hence, the user can listen to news and relate using the relatable pictures.
 
 •	Newsie Community where people can share news and discuss.
 
